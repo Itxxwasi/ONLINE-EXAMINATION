@@ -10,37 +10,25 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?label=Fork&style=social">
+  <a href="https://github.com/Itxxwasi/fork">
+    <img src="https://img.shields.io/github/forks/https://github.com/Itxxwasi?label=Fork&style=social">
     
     
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-    <img src="https://img.shields.io/github/stars/Maher-Zubair?style=social">
+  <a href="https://github.com/Itxxwasi/stargazers"> 
+    <img src="https://img.shields.io/https://github.com/Itxxwasi?style=social">
   </a>
 
 </p>
 
 
-<p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
-<img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
-<p align="center"> 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/GAyeIu3SAqyJDCmxHhapp2" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <a aria-label="Join our chats" href="https://chat.whatsapp.com/I1FymAZqrigItemS57hB88" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/Public Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
-
-## ***Bot Features***
+## ***APP FEATURES***
 ---
-1. ***Game Menu.***
-2.  ***Multi-Themes Supported.***
-3.  ***Huge Logo Maker Menu.***
-4. ***Group Management Commands.***
-5.  ***Photo Editor Menu.***
+1. ***MULTIPLE EXAM SYSTEM.***
+2.  ***MULTI ACCOUNT SUPPORTING.***
+3.  ***HuGE DATABASE***
+4. ***HIGH LEVEL SUCIRTY ***
+5.  ***AND MUCH MORE.***
 6.  ***Ban Protection.***
 7.  ***Multi-Device Supported.***
 8.  ***350+ Commands.***
