@@ -30,8 +30,7 @@
 4. ***HIGH LEVEL SUCIRTY ***
 5.  ***AND MUCH MORE.***
 6.  ***Ban Protection.***
-7.  ***Multi-Device Supported.***
-8.  ***350+ Commands.***
+7.  ***in working .***
 ##
 
 
@@ -40,4 +39,5 @@
 
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
+*work in progress*
 1. ***Star⭐ The Repository First***
